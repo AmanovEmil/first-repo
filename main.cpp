@@ -1,2 +1,2 @@
 #include warrior.h
-Int main () {}
+Int MainFunction () {}
